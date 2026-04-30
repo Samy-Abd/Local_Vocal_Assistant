@@ -21,7 +21,7 @@ SYSTEM_PROMPT = (
 
 # TTS (Piper CLI)
 # Point this to your piper.exe path (absolute is safest on Windows)
-PIPER_EXE = r"C:\Users\caggi\OneDrive\Bureau\M\piper\piper.exe"
+PIPER_EXE = r"" # Add your path
 
 # Voice model path
 PIPER_VOICE_ONNX = str(ASSETS_DIR / "voice.onnx")
